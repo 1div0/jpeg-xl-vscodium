@@ -1,6 +1,6 @@
 # [JPEG XL for VS Code](https://marketplace.visualstudio.com/items?itemName=printfn.jpeg-xl)
 
-This extension adds [JPEG XL](https://jpegxl.info/) support to VS Code. It lets
+This extension adds [JPEG XL](https://jpegxl.info/) support to VS Codium. It lets
 you view `.jxl` files directly in your editor.
 
 <picture>
@@ -16,5 +16,5 @@ or you can manually download the latest release from
 
 ## Features
 
-- View `.jxl` files directly in VS Code, just like built-in image formats like JPEG and PNG
+- View `.jxl` files directly in VS Codium, just like built-in image formats like JPEG and PNG
 - See the file size and image resolution in the status bar
